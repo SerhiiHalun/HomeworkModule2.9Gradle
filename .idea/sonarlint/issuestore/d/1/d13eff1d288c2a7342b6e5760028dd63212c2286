@@ -1,0 +1,15 @@
+
+	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òιόÿÿÿÿ8„‘ÿΔ‹2J$e7117569-2d01-455e-8ecb-427ac480e7d0
+	java:S112 "FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òιόÿÿÿÿ8…‘ÿΔ‹2J$f1c838b4-728d-4c65-b8c4-b9818bbeb8bc
+	java:S112""FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òιόÿÿÿÿ8…‘ÿΔ‹2J$4ea9695b-7675-4a16-a007-c5c1ad17c45e
+	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ίγψ‰ύÿÿÿÿ8‡‘ÿΔ‹2J$60ae8ab9-489f-4639-b99f-abb2b4c30e94
+“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ς„‰8‡‘ÿΔ‹2J$5999e2e7-0f0b-4fd9-8a8c-0cb5e06ec9d5
+
+java:S2095"HUse try-with-resources or close this "HttpClient" in a "finally" clause.(¨ΪΤύÿÿÿÿ8κ‚Ε‹2J$81961dbb-0ba3-471f-963f-ad6e07c62c94
+‡
+java:S2147"DCombine this catch with the one at line 29, which has the same body.(ο­£Δ8•‘ÿΔ‹2J$854160c8-89f1-47ed-9157-19b35d93853e
+‡
+java:S2147!"DCombine this catch with the one at line 31, which has the same body.(δ Ή€8•‘ÿΔ‹2J$5c3f4dad-ff46-4cfa-bdbb-29bde3d8258d
+΅
+java:S2142!"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(δ Ή€8–‘ÿΔ‹2J$b68f9df5-0cf3-4fc5-a993-32ec5acd2d83
+m	java:S106"+Replace this use of System.out by a logger.(¤υή΅8ΨρΕ‹2J$07d5952a-8d10-4a46-8ed1-5356f1d53e86

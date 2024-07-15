@@ -1,0 +1,10 @@
+
+x	java:S116"WRename this field "URL_WEB_SITE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”Â´×ÿÿÿÿÿ8ÑìÉÅ‹2
+C
+java:S1170"!Make this final field static too.(”Â´×ÿÿÿÿÿ8ÒìÉÅ‹2
+G	java:S106	"+Replace this use of System.out by a logger.(‹óµº8ÕìÉÅ‹2
+G	java:S106"+Replace this use of System.out by a logger.(–çŸó8ÙìÉÅ‹2
+R
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ8ÚìÉÅ‹2
+R
+java:S1068"0Remove this unused "URL_WEB_SITE" private field.(”Â´×ÿÿÿÿÿ8ÛìÉÅ‹2

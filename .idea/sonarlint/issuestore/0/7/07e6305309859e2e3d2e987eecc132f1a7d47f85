@@ -1,0 +1,20 @@
+
+‡	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ç‡ƒA8ò£Ä‹2J$d6d385f2-5c23-455a-b32a-a8a78cf5ff17
+	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ò£Ä‹2J$1fa60eb6-611c-44df-a90c-6add4b418857
+	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ò£Ä‹2J$a83d8823-d823-4108-b9f3-723de7d6bd9c
+	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Š¶¥Ä‹2J$26d77675-f5ab-46d8-8839-72344debb6fb
+˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚í÷‰ÿÿÿÿÿ8ò£Ä‹2J$1c1262e8-dc8a-41a0-96a7-0a477c660205
+“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œò„‰8ò£Ä‹2J$b2a8fa37-873d-43ca-b398-6d2446357629
+
+java:S2095"HUse try-with-resources or close this "HttpClient" in a "finally" clause.(¨ÚÔıÿÿÿÿ8¬Ï¥Ä‹2J$dd499a34-cd70-4317-bde5-adac9646562d
+	java:S116"WRename this field "URL_WEB_SITE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”Â´×ÿÿÿÿÿ8˜ò£Ä‹2J$84826c71-97d9-4c80-b227-eaa44133f081
+i
+java:S1170"!Make this final field static too.(”Â´×ÿÿÿÿÿ8šò£Ä‹2J$d89b6ff1-2ab5-4543-8aa7-d4f1eb634072
+n
+java:S1075"&Remove this hard-coded path-delimiter.(‚í÷‰ÿÿÿÿÿ8ò£Ä‹2J$7c2e8c19-0fd5-48af-899a-dd0b3fa2cba7
+‡
+java:S2147"DCombine this catch with the one at line 25, which has the same body.(ï­£Ä8Ÿò£Ä‹2J$3aa0a140-2afa-4948-9649-8420d4efcb2c
+‡
+java:S2147"DCombine this catch with the one at line 27, which has the same body.(ä ¹€8Ÿò£Ä‹2J$16c007cc-f293-4653-b9c3-e862be312339
+¡
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8 ò£Ä‹2J$f9da78a4-4b51-4433-94c8-f11bcb50dd0f
