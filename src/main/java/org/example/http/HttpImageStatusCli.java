@@ -13,7 +13,8 @@ public class HttpImageStatusCli {
             HttpStatusImageDownloader httpStatusImageDownloader = new HttpStatusImageDownloader();
             httpStatusImageDownloader.downloadStatusImage(code);
         }catch (RuntimeException e){
-            System.out.println("Please enter valid number");
+            System.out.println("There is not image for HTTP status "+ code+"\nPlease enter valid number");
+            askStatus();
         }
 
 
